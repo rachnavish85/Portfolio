@@ -3,10 +3,6 @@ export default {
     tailwindcss: {},
     autoprefixer: {},
   },
-    build: {
-    rollupOptions: {
-      external: ['react-hook-form']
-    }
-  }
+   }
 
 }
